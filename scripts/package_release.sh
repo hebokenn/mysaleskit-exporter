@@ -6,7 +6,7 @@ APP_NAME="MySalesKit导出工具"
 ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 BUILD_DIR="$ROOT_DIR/build"
 RELEASE_DIR="$BUILD_DIR/${APP_NAME}-${VERSION}"
-ZIP_PATH="$ROOT_DIR/dist/${APP_NAME}-${VERSION}.zip"
+ZIP_PATH="$ROOT_DIR/dist/mysaleskit-exporter-${VERSION}.zip"
 
 cd "$ROOT_DIR"
 rm -rf "$BUILD_DIR" "$APP_NAME.app"

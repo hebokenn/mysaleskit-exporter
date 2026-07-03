@@ -14,7 +14,7 @@
 
 ## 下载和安装
 
-1. 到 GitHub Release 下载 `MySalesKit导出工具-v0.1.0.zip`。
+1. 到 GitHub Release 下载 `mysaleskit-exporter-v0.1.0.zip`。
 2. 解压 zip。
 3. 不要只拖走 app。请保持 `MySalesKit导出工具.app` 和 `scripts/`、`package.json` 在同一个解压文件夹里。
 4. 双击 `MySalesKit导出工具.app`。
