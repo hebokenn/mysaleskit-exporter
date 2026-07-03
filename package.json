@@ -1,0 +1,15 @@
+{
+  "name": "mysaleskit-exporter",
+  "version": "0.1.0",
+  "description": "macOS helper app for exporting MySalesKit data through MyWorkbench and MyTalent.",
+  "type": "module",
+  "private": false,
+  "scripts": {
+    "build:app": "osacompile -o 'MySalesKit导出工具.app' scripts/mysaleskit_app_launcher.applescript",
+    "package": "bash scripts/package_release.sh"
+  },
+  "dependencies": {
+    "exceljs": "^4.4.0",
+    "playwright": "^1.58.2"
+  }
+}
