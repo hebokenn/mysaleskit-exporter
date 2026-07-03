@@ -12,7 +12,7 @@
 
 这个工具不会绕过权限控制。如果当前账号没有 MyTalent 或 MySalesKit 权限，导出会失败并提示原因。
 
-## 下载和安装
+## 下载和安装：[点这里下载 v0.1.0](https://github.com/hebokenn/mysaleskit-exporter/releases/download/v0.1.0/mysaleskit-exporter-v0.1.0.zip)
 
 1. 到 GitHub Release 下载 `mysaleskit-exporter-v0.1.0.zip`。
 2. 解压 zip。
